@@ -1,0 +1,15 @@
+body {
+    background-color: #2f2f2f;
+}
+
+table {
+    color: #bfbfbf;
+}
+
+a {
+    color: #bfbfbf;
+}
+
+a:hover {
+    color: #dfdfdf;
+}
